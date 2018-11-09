@@ -1,0 +1,14 @@
+/*
+ Theme Name:   WC Orlando 2018
+ Template:     twentyfifteen
+*/
+
+body{
+background-color:rgb(0, 95, 95);
+}
+
+.entry-header{
+color:rgb(6, 108, 202);
+font-family: Arial, Helvetica, sans-serif;
+font-size: 40px;
+}
